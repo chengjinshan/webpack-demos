@@ -6,5 +6,8 @@
     "dev": "webpack-dev-server --open",
     "build": "webpack -p"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack-cli": "^3.3.0"
+  }
 }
